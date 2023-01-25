@@ -1,0 +1,12 @@
+1) Format your pc with a usb stick and delete all disks
+2) After that you download this zip file again 
+3) Install "MacSetup.exe" and change the MacAdress of every device that is showing up
+4) Run "HardDisk.exe" and change the SerialNumber of your disks
+5) Go in the folder "GRINX64v2" and run "DMIEDIT.exe"
+6) Change everything thats called "serial number"& "UUID" 
+7) reboot your pc
+7) Flash your BIOS (dont requiered for every game, but I suggest doing it)
+8) After flashing your BIOS do step 3, 4, 5 & 6 again and reboot your pc
+9) Now you download the game your were banned and you will see you are unbanned 
+
+INFO: If it didnt work for you Im sorry I cant help, but it will work for most of you!
